@@ -1,4 +1,4 @@
 baseURL = "https://akozyreva.github.io/german-blog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My blog about german rules"
 theme = "hamburg"
